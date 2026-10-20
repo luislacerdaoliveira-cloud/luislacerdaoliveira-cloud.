@@ -14,7 +14,7 @@ Me chamo Luis Henrique, hoje tenho 16 anos. Atualmente estou cursando Desenvolvi
     title="HTML"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg&quot;
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
     align="left"
@@ -22,7 +22,7 @@ Me chamo Luis Henrique, hoje tenho 16 anos. Atualmente estou cursando Desenvolvi
     title="CSS"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg&quot;
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 <img
     align="left"
@@ -30,7 +30,7 @@ Me chamo Luis Henrique, hoje tenho 16 anos. Atualmente estou cursando Desenvolvi
     title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg&quot;
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 
 <br/>
@@ -46,14 +46,14 @@ Me chamo Luis Henrique, hoje tenho 16 anos. Atualmente estou cursando Desenvolvi
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=JonatanNF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&quot;
+    src="https://github-readme-stats.vercel.app/api?username=JonatanNF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img
       align="left"
       alt="GitHub Stats"
       height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanNF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&quot;
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatanNF&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 
 </p>
